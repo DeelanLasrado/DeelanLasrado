@@ -22,6 +22,6 @@ Hello! I'm Deelan Lasrado, a third-year Computer Science student at Sahyadri Col
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/deelan-lasrado/)
 - [GitHub](https://github.com/DeelanLasrado)
-- Email: deelanlasrado44@gmail.com
+- deelanlasrado44@gmail.com
 
 Let's collaborate and innovate together!
