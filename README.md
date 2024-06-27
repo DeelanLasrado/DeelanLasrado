@@ -20,7 +20,7 @@ Hello! I'm Deelan Lasrado, a third-year Computer Science student at Sahyadri Col
 
 ## Contact
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/deelan-lasrado/)
+- [LinkedIn](https://www.linkedin.com/in/deelanlasrado/)
 - [GitHub](https://github.com/DeelanLasrado)
 - deelanlasrado44@gmail.com
 
