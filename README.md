@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello! I'm Deelan Lasrado, a third-year Computer Science student at Sahyadri College of Engineering and Management. I am passionate about full-stack development and exploring the intersections of machine learning and blockchain technology.
+Hello! I'm Deelan Lasrado,working as a Software Developer at Semnox Solutions. I am passionate about full-stack development and exploring the intersections of machine learning and blockchain technology.
 
 ## Skills
-- Programming Languages: Java, Python, JavaScript, C/C++
+- Programming Languages: Java, Python, JavaScript, C/C++, C#
 - Web Technologies: HTML, CSS, React.js, Node.js
 - Databases: MySQL, PostgreSQL
 - Machine Learning: GANs, Autoencoders, CNN, ANN
