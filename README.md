@@ -164,14 +164,6 @@ Sahyadri College of Engineering and Management
 
 ---
 
-# 📊 GitHub Stats
-
-![Deelan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeelanLasrado\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeelanLasrado\&layout=compact\&hide_border=true)
-
----
-
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deelan%20Lasrado-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/deelanlasrado/)
